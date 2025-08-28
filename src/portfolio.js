@@ -125,8 +125,12 @@ const skills = [
 
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'dev.abdulkayuem@gmail.com',
+  phone: '+8801684762673',
+  linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
+  github: 'https://github.com/Kayuemkhan',
+  location: 'Dhaka, Bangladesh',
 }
+
 
 export { header, about, projects, skills, contact,experience }
