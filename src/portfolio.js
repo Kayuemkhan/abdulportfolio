@@ -1,16 +1,17 @@
 const header = {
   homepage: 'https://Kayuemkhan.github.io/abdulportfolio',
-  title: 'AK',
+  title: 'PORTFOLIO',
 }
 
 const about = {
   name: 'Abdul Kayuem',
   role: 'Senior Mobile Engineer',
+  image: 'assets/profile.jpg', // <--- Add your image here
   description:
     'I’m a mobile engineer with over <strong>5 years</strong> of experience specializing in <strong>Android (Java/Kotlin)</strong> and <strong>Flutter</strong>. ' +
     'I have successfully built and scaled applications in <strong>Banking</strong>, <strong>Fintech</strong>, <strong>POS</strong>, <strong>Telemedicine</strong>, <strong>WebRTC</strong>, and <strong>E-commerce</strong> domains. ' +
     'Notable projects include modernizing the <strong>Dhaka Bank Go</strong> app, developing fintech sales solutions serving <strong>10K+ dealerships</strong>, and leading mobile teams to deliver secure, high-performance applications. ' +
-    'I am passionate about creating innovative, impactful software that improves user experience and drives business growth.',
+    'I am passionate about creating innovative, impactful software that improves user experience and drives business growth. Besides my core responsibilities, I am contributing to <strong> open-source </strong> projects, which is part of this philosophy.',
   resume: 'https://drive.google.com/file/d/1AFhcUTvvDGE0UtWJ7K8XIeDWqJXIw_jL/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
