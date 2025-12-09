@@ -8,10 +8,8 @@ const about = {
   role: 'Senior Mobile Engineer',
   image: 'assets/profile.jpg', // <--- Add your image here
   description:
-    'I’m a mobile engineer with over <strong>5 years</strong> of experience specializing in <strong>Android (Java/Kotlin)</strong> and <strong>Flutter</strong>. ' +
-    'I have successfully built and scaled applications in <strong>Banking</strong>, <strong>Fintech</strong>, <strong>POS</strong>, <strong>Telemedicine</strong>, <strong>WebRTC</strong>, and <strong>E-commerce</strong> domains. ' +
-    'Notable projects include modernizing the <strong>Dhaka Bank Go</strong> app, developing fintech sales solutions serving <strong>10K+ dealerships</strong>, and leading mobile teams to deliver secure, high-performance applications. ' +
-    'I am passionate about creating innovative, impactful software that improves user experience and drives business growth. Besides my core responsibilities, I am contributing to <strong> open-source </strong> projects, which is part of this philosophy.',
+    'I’m a mobile app developer with more than <strong>Four years</strong> of experience in the software industry, specializing in <strong>Java, Kotlin, Android</strong>, and <strong>Flutter</strong>.' +
+    ' Over the years, I have developed complex systems for <strong>Banking Apps</strong>,<strong>Fintech</strong>, <strong>POS</strong>, <strong>Telemedicine</strong>, <strong>WebRTC</strong>, and <strong>E-commerce</strong> applications. I love building innovative and impactful software that improves the lives of a vast number of people.',
   resume: 'https://drive.google.com/file/d/1AFhcUTvvDGE0UtWJ7K8XIeDWqJXIw_jL/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abdulkayuem/',
